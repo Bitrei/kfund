@@ -1,0 +1,38 @@
+body{
+    background: rgb(181,2,2);
+    background: linear-gradient(90deg, rgba(181,2,2,1) 6%, rgba(28,74,150,1) 30%, rgba(200,13,130,1) 57%, rgba(204,35,35,1) 79%, rgba(255,248,0,1) 98%); 
+    font-family: 'Ephesis', cursive;
+    font-size: 50px;
+}
+h1, th, td{
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td, th{
+    width: 300px;
+    height: 130px;
+}
+
+img{
+    width: 60px;
+    height: 60px;
+}
+
+th:hover {
+    color: lightskyblue;
+
+}
+td:hover {
+
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
+    color:white;
+
+    border: 2px solid whitesmoke;
+}
+h1:hover {
+    color:teal;
+}

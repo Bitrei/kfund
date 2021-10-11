@@ -1,0 +1,38 @@
+body{
+    background-color: mintcream;
+    color: rgb(19, 18, 18);
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+
+
+
+}
+a{
+    font-size: 20px;
+    font-weight:bold;
+    text-decoration: none;
+
+
+}
+img{
+    color: rgb(181, 212, 233);
+border-radius: 50%;
+
+
+}
+ul{
+list-style-type: square;    
+}
+
+
+h1{
+    text-align: center;
+}
+li {
+    text-decoration: none;
+}
+
+
+p{ 
+    text-align: center;
+}

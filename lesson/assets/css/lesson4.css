@@ -1,0 +1,20 @@
+.cadetblue{
+    color: cadetblue;
+}
+.black{
+    color: black;
+}
+.mainleft{
+    border: 1px solid black;
+}
+.first{
+    width: 200px;
+    height: 200px;
+}
+.center{
+    text-align: center;
+}
+ul li{
+    list-style-type:none;
+}
+
